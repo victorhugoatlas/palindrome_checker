@@ -4,8 +4,9 @@
 
 ## Como Executar
 1. Certifique-se de ter o Python instalado na sua máquina.
-2. Baixe ou copie o código para um arquivo chamado `palindrome-checker.py`.
+2. Baixe ou copie o código para um arquivo chamado `main.py`.
 3. Abra o terminal na pasta do arquivo e execute:
 
 ```bash
-python palindrome-checker.py
+python main.py
+````
